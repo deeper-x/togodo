@@ -1,0 +1,23 @@
+{
+    "events": [{
+            "InEvt": 202107111956,
+            "Rcpt": "albertodeprezzo@gmail.com",
+            "Msg": "reminder 1"
+        },
+        {
+            "InEvt": 202107111957,
+            "Rcpt": "albertodeprezzo@gmail.com",
+            "Msg": "reminder 2"
+        },
+        {
+            "InEvt": 202107111958,
+            "Rcpt": "albertodeprezzo@gmail.com",
+            "Msg": "reminder 3"
+        },
+        {
+            "InEvt": 202107111959,
+            "Rcpt": "albertodeprezzo@gmail.com",
+            "Msg": "reminder 4"
+        }
+    ]
+}
